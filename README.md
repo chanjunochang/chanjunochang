@@ -1,12 +1,12 @@
-<p align="center">
+<div align="center">
     <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ejay" alt="Solved.ac 프로필" 
     data-canonical-src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ejay" style="max-width: 100%;">   
-</p>
-<div align="center">
+</div>
+<p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31n3jdywjpepjskybrasbzqr5zw4&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31n3jdywjpepjskybrasbzqr5zw4&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true">
   </a>
-</div>
+</p>
 
 <div align="center">
   <a href='https://github.com/phytoncideman' target="_blank"><img alt='c' src='https://img.shields.io/badge/C/C++-00599C?style=flat&logo=cplusplus&logoColor=181818&labelColor=ffffff&color=ffffff'/></a>
